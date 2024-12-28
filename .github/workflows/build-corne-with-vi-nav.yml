@@ -13,4 +13,4 @@ jobs:
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y"]'
       nav: '["vi"]'
-      branches: '["petejohanson/zmk/feat/pointers-move-scroll","zmkfirmware/zmk/main petejohanson/zmk/feat/pointers-move-scroll"]'
+      branches: '["petejohanson/zmk/feat/pointers-move-scroll"]'
